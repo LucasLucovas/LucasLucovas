@@ -1,12 +1,14 @@
-### Hi there 👋
+✨✨ FrontEnd in progress... ✨✨
+
+- 🌱 I’m currently studying FullStack Development at Nucba Academy and making courses at Platzi
+- 🔭 I’m currently working on expanding my knowledge and trying to practice as much as posible
+- 🌱 I’m currently learning JavaScript Vanilla
+- 📫 How to reach me: LinkedIn -> https://www.linkedin.com/in/lucas-lucovas-87319a229/
 
 <!--
-**LucasLucovas/LucasLucovas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLucovas&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/LucasLucovas/github-readme-stats)
