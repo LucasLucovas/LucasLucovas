@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying FullStack Development at Nucba Academy and making courses at Platzi
 - 🔭 I’m currently working on expanding my knowledge and trying to practice as much as posible
-- 🌱 I’m currently learning JavaScript Vanilla
+- 🌱 I’m currently learning JavaScript Vanilla and React
 - 📫 How to reach me: LinkedIn -> https://www.linkedin.com/in/lucas-lucovas-87319a229/
 
 <!--
